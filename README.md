@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning frontend technologies
 - 👯 I’m looking to collaborate on open source projects
-=- 📫 How to reach me: I am reachable @ vipinsharma1388@gmail.com
+- 📫 How to reach me: I am reachable @ vipinsharma1388@gmail.com
