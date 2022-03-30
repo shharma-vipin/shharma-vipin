@@ -24,10 +24,6 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---     
