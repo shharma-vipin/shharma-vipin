@@ -2,7 +2,6 @@
 
 ### Heya, folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/wave.gif" width="30px">
 
----
 _Glad to see you here!_   🤩   
 My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru.      
 
