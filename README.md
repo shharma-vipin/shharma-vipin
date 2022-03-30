@@ -22,7 +22,13 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 
 ---   
 
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ---     
 > **“No one who does good work will ever come to a bad end, either here or in the world to come**” -<cite> The Bhagavad Gita </cite>
