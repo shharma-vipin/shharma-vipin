@@ -1,12 +1,13 @@
 <!--**shharma-vipin/shharma-vipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-### Heya, folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/wave.gif" width="30px">
+![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshharma-vipin1212%2Fhit-counter)   
+### Heya, नमस्ते (Namaste) folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/wave.gif" width="30px">
 
 _Glad to see you here!_   🤩   
-My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru.      
+My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru.   
 
 ---   
 ### GitHub Statistics
+![Trophy's](https://github-profile-trophy.vercel.app/?username=shharma-vipin)   
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,3 +29,6 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 
 ---     
 > **“No one who does good work will ever come to a bad end, either here or in the world to come**” -<cite> The Bhagavad Gita </cite>
+
+
+
