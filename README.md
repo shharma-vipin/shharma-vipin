@@ -11,13 +11,13 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="425" src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula"  alt="dasdas"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula"  alt="dasdas"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="ddsasdsa"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="ddsasdsa"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="dasdasdasddsa" height="300"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="dasdasdasddsa" height="280"/>
 </a>     
 </p>     
 
