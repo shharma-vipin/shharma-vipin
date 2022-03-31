@@ -1,7 +1,4 @@
 <!--**shharma-vipin/shharma-vipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Vipin Sharma](Invited_1.gif)
-<br/>
----
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/shharma-vipin)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/shharma-vipin)](https://badges.pufler.dev)
