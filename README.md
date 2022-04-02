@@ -68,9 +68,12 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 40 mins    ███████████████████████▓░   94.96 %
-Text       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin           2 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.42 %
+Markdown         1 hr 56 mins    █████████░░░░░░░░░░░░░░░░   35.50 %
+Java             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+SQL              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
