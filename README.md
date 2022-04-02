@@ -63,6 +63,9 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 [//]: # (<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/" alt="" width="100" height="100"/> </a>)
 </p>
 
+<br/>
+<br/>
+<br/>
 
 <!--START_SECTION:waka-->
 
@@ -76,7 +79,8 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+<br/>
+<br/>
 ---     
 > **“No one who does good work will ever come to a bad end, either here or in the world to come**” -<cite> The Bhagavad Gita </cite>
 
