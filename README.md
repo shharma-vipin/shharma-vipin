@@ -8,7 +8,7 @@
 <br clear="left"/>
 
 _Glad to see you here!_   🤩   
-My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a software developer from India, currently living in Bengaluru.
+My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a software developer from India, currently living in **Bengaluru**.
 
 
 ---
@@ -30,7 +30,37 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
 </p>     
 
 ---
-### Tools & Technologies
+  <details>
+  <summary><b>Tools & Technologies</b></summary>
+
+  <p>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="dgo" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dropwizard/dropwizard-original.svg" alt="dropwizard" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoft sql server" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="100" height="100"/> </a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="100" height="100"/> </a>
+  </p>
+
+  </details>
+
+<!-- 
 <p>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100"/> </a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="100" height="100"/> </a>
@@ -56,7 +86,7 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="100" height="100"/> </a>
 
 [//]: # (<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/" alt="" width="100" height="100"/> </a>)
-</p>
+</p> -->
 
 <br/>
 <br/>
@@ -85,9 +115,11 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 
 ### You can reach out to here 🔍
 <a href= "https://linkedin.com/in/vipinsharma1310" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
-<a href= "https://stackoverflow.com/users/10211871/vipin?tab=profile" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="30" width="40" /></a>
+<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev_to" height="30" width="40" /></a>
+<a href= "https://stackoverflow.com/users/10211871/vipin?tab=profile" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit" height="30" width="40" /></a>
+<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 
 ---
 
