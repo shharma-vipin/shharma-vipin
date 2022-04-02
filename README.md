@@ -8,10 +8,9 @@
 
 ### Heya, नमस्ते (Namaste) folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/wave.gif" width="30px">   
 
-<p align="right"><img style="float: right;" width = "300" src="resources/IMG_0747.PNG"></p>
-
 _Glad to see you here!_   🤩   
-My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru.
+My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru. <p align="right"><img style="float: right;" width = "300" src="resources/IMG_0747.PNG"></p>
+
 
 
 ---
