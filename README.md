@@ -17,23 +17,27 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
 
 [![Trophy's](https://github-profile-trophy.vercel.app/?username=shharma-vipin&theme=dracula)](https://github.com/shharma-vipin/github-profile-trophy)
 
-<p>
+<p float="center">
+<img align = "right" src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="github contribution graph" height="475" width="1000"/></a>     
+
+<br clear="left"/>
+
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img float="left" width="400" src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula&hide=stars"  alt="github readme stats"/>
+<img width="500"  src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula&hide=stars"  alt="github readme stats"/>
 </a>
+<br/>  
 <a href="https://github.com/anuraghazra/convoychat">
-<img float="center" width="360" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="github readme stats"/>
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="github readme stats"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="github contribution graph" height="280"/>
-</a>     
-</p>     
+</p>
+</p>
 
 ---
-  <details>
-  <summary><b>Tools & Technologies</b></summary>
+<details>
+<summary><b>Tools & Technologies</b></summary>
 
-  <p>
+<p>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100"/> </a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="100" height="100"/> </a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/> </a>
@@ -56,9 +60,9 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="100" height="100"/> </a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="100" height="100"/> </a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="100" height="100"/> </a>
-  </p>
+</p>
 
-  </details>
+</details>
 
 <!-- 
 <p>
