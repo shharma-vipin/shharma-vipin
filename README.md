@@ -11,6 +11,10 @@ _Glad to see you here!_   🤩
 My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a software developer from India, currently living in **Bengaluru**.
 
 ---
+[![Repos Badge](https://badges.pufler.dev/repos/shharma-vipin)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/shharma-vipin)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/shharma-vipin)](https://badges.pufler.dev)
+
 [![Trophy's](https://github-profile-trophy.vercel.app/?username=shharma-vipin&theme=dracula)](https://github.com/shharma-vipin/github-profile-trophy)
 
 ---
@@ -18,10 +22,14 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
 <summary><b>GitHub Statistics</b></summary>
 
 <br/>
+<br/>
 <img align = "left" src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="github contribution graph"  width="950"/>
-<img width="450" align = "center" src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula&hide=stars"  alt="github readme stats"/>
 <br clear="right"/>
-<img align = "center" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="github readme stats"/>
+<p>
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula&hide=stars"  alt="github readme stats"/>
+<img  alighn ="right" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="github readme stats"/>
+<br clear="left">
+</p>
 <br clear="left">
 </details>
 
