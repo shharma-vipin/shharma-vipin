@@ -10,28 +10,20 @@
 _Glad to see you here!_   🤩   
 My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a software developer from India, currently living in **Bengaluru**.
 
-
 ---
-
-### GitHub Statistics
-
 [![Trophy's](https://github-profile-trophy.vercel.app/?username=shharma-vipin&theme=dracula)](https://github.com/shharma-vipin/github-profile-trophy)
 
-<p float="center">
-<img align = "right" src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="github contribution graph" height="475" width="1000"/></a>     
+---
+<details>
+<summary><b>GitHub Statistics</b></summary>
 
-<br clear="left"/>
-
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="500"  src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula&hide=stars"  alt="github readme stats"/>
-</a>
-<br/>  
-<a href="https://github.com/anuraghazra/convoychat">
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="github readme stats"/>
-</a>
-</p>
-</p>
+<br/>
+<img align = "left" src="https://activity-graph.herokuapp.com/graph?username=shharma-vipin&theme=dracula"  alt="github contribution graph"  width="950"/>
+<img width="450" align = "center" src="https://github-readme-stats.vercel.app/api?username=shharma-vipin&show_icons=true&line_height=25&count_private=true&theme=dracula&hide=stars"  alt="github readme stats"/>
+<br clear="right"/>
+<img align = "center" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=shharma-vipin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DDC519"  alt="github readme stats"/>
+<br clear="left">
+</details>
 
 ---
 <details>
