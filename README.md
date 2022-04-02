@@ -59,12 +59,6 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 </p>
 
 
----     
-> **“No one who does good work will ever come to a bad end, either here or in the world to come**” -<cite> The Bhagavad Gita </cite>
-
----
-
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -86,5 +80,11 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+---
+
+
+---     
+> **“No one who does good work will ever come to a bad end, either here or in the world to come**” -<cite> The Bhagavad Gita </cite>
 
 ---
+
