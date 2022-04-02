@@ -6,11 +6,13 @@
 [![Years Badge](https://badges.pufler.dev/years/shharma-vipin)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shharma-vipin.visitor-badge)
 
+ <p align="right"><img width = "300" src="resources/IMG_0747.PNG"></p>
+
 ### Heya, नमस्ते (Namaste) folks! <img src="resources/wave.gif" width="30px">   
 
 
 _Glad to see you here!_   🤩   
-My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru. <p align="right"><img width = "300" src="resources/IMG_0747.PNG"></p>
+My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru.
 
 
 
