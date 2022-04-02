@@ -1,19 +1,14 @@
 <!--**shharma-vipin/shharma-vipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<img align="right" width="75" src = "https://visitor-badge.glitch.me/badge?page_id=shharma-vipin.visitor-badge">
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/shharma-vipin)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/shharma-vipin)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/shharma-vipin)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/shharma-vipin)](https://badges.pufler.dev)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shharma-vipin.visitor-badge)
 
- <p align="right"><img width = "300" src="resources/IMG_0747.PNG"></p>
+<img align="right" width = "300" src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/resources/IMG_0747.PNG">
 
-### Heya, नमस्ते (Namaste) folks! <img src="resources/wave.gif" width="30px">   
-
+### Heya, नमस्ते (Namaste) folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/resources/wave.gif" width="30px">   
+<br clear="left"/>
 
 _Glad to see you here!_   🤩   
-My name is **Vipin Sharma**, and I'm a software developer from India, currently living in Bengaluru.
-
+My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a software developer from India, currently living in Bengaluru.
 
 
 ---
@@ -67,6 +62,9 @@ My name is **Vipin Sharma**, and I'm a software developer from India, currently 
 <br/>
 <br/>
 
+---
+### Languages Usage Trend
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -84,7 +82,14 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 <br/>
 
 ---     
-> **“No one who does good work will ever come to a bad end, either here or in the world to come**”    - <cite> The Bhagavad Gita </cite>
+
+### You can reach out to here 🔍
+<a href= "https://linkedin.com/in/vipinsharma1310" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href= "" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
+<a href= "https://stackoverflow.com/users/10211871/vipin?tab=profile" target="_blank"><img float="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="30" width="40" /></a>
+
 ---
 
-
+> **“No one who does good work will ever come to a bad end, either here or in the world to come**”    - <cite> The Bhagavad Gita </cite>
+---
