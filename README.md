@@ -88,28 +88,28 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
 [//]: # (<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/" alt="" width="100" height="100"/> </a>)
 </p> -->
 
-<br/>
-<br/>
-<br/>
 
 ---
-### Languages Usage Trend
+  <details>
+  <summary><b>Languages Usage Trend</b></summary>
 
-<!--START_SECTION:waka-->
+  <p> 
+  <!--START_SECTION:waka-->
 
-```text
-Kotlin           2 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.42 %
-Markdown         1 hr 56 mins    █████████░░░░░░░░░░░░░░░░   35.50 %
-Java             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-SQL              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-```
+  ```text
+      Kotlin           2 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.42 %
+      Markdown         1 hr 56 mins    █████████░░░░░░░░░░░░░░░░   35.50 %
+      Java             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+      SQL              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+      Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+      JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+  ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
-<br/>
-<br/>
+  </p>
+  </details>
+
 
 ---     
 
