@@ -6,7 +6,7 @@
 [![Years Badge](https://badges.pufler.dev/years/shharma-vipin)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shharma-vipin.visitor-badge)
 
-### Heya, नमस्ते (Namaste) folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/wave.gif" width="30px">   
+### Heya, नमस्ते (Namaste) folks! <img src="resources/wave.gif" width="30px">   
 
 
 _Glad to see you here!_   🤩   
