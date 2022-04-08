@@ -101,12 +101,12 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
   <!--START_SECTION:waka-->
 
 ```text
-Kotlin           9 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.60 %
-Markdown         5 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-TypeScript       2 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Text             1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-SQL              59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Java             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+TypeScript       12 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   40.34 %
+Kotlin           9 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+Markdown         3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+CSS              1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Text             1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+SQL              59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
