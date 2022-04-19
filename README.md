@@ -4,7 +4,7 @@
 
 <img align="right" width = "300" src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/resources/IMG_0747.PNG">
 
-### Heya, नमस्ते (Namaste) folks! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/resources/wave.gif" width="30px">   
+### Heya, नमस्ते (Namaste) ! <img src="https://raw.githubusercontent.com/shharma-vipin/shharma-vipin/master/resources/wave.gif" width="30px">   
 <br clear="left"/>
 
 _Glad to see you here!_   🤩   
