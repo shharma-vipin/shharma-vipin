@@ -101,12 +101,11 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript       15 hrs 34 mins  ████████████████████░░░░░   80.32 %
-JavaScript       3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Markdown         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-.env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript       10 hrs 36 mins  ██████████████████████▒░░   89.84 %
+JavaScript       1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
