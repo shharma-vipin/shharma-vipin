@@ -101,12 +101,12 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
   <!--START_SECTION:waka-->
 
 ```text
-Kotlin         10 hrs 35 mins  █████████████████████▓░░░   86.68 %
-Markdown       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Docker         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Batchfile      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Properties     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Kotlin         1 hr 59 mins    ███████████████░░░░░░░░░░   59.46 %
+Markdown       28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Docker         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+XML            14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Batchfile      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+HTML           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
