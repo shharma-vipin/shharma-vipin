@@ -101,7 +101,8 @@ My name is  <span style="color:#4985e6">**Vipin Sharma**</span>, and I'm a softw
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java     7 mins          ███████████████████████░░   91.77 %
+Kotlin   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 ```
 
 <!--END_SECTION:waka-->
